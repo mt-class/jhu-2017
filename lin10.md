@@ -42,7 +42,7 @@ TBD
 | October 3 | Italian | Nawaf Al-Dhelaan, Jingyi Wu, Huanyu Yang |
 | October 5 | Singlish | Shuo Sun, Ke Li, Xutai Ma, Shijia Liu |
 | October 10 | Hindi | Adhiraj Yadav, Dhananjay Singh, Manya Wadhwa, Vishal Rao |
-| October 12 | Spanish | Achintya Gopal, Philip Piantone, Eric Calder, Tomas Ferrer Deheza | 
+| October 12 | Spanish | Achintya Gopal, Philip Piantone, Eric Calder et al. | 
 | October 17 | Hebrew | Shijie Wu, Chenyang Zhao, Pamela Shapiro, Lawrence Wolf-Sonkin |
 | October 24 | Esperanto | Harrison Huh, Shreya Aggarwal, Alex Gain |
 | October 26 | Japanese | Zikun Chen, Yu Zhao, Fan Yang |
